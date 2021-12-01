@@ -1,6 +1,6 @@
-# So I have made Verilog code for a 32-bit pipelined MIPS processor.
+ So I have made Verilog code for a 32-bit pipelined MIPS processor.
 
-# Combination of gate-level, dataflow and behavioural modelling.
+ Combination of gate-level, dataflow and behavioural modelling.
 
 Remarks:
 
