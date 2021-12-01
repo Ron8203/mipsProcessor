@@ -9,8 +9,7 @@ Remarks:
 
 - Instruction Memory for 32 32-bit MIPS instructions.
 - 32 32-bit Data Memory locations.
-- Instruction Memory consisting of arithmetic, logical, branch, jump, and memory-access instructions. Immediate arguments and argument registers are hard-coded.<br>
-**5-stage pipelining; stages are:**
+- Instruction Memory consisting of arithmetic, logical, branch, jump, and memory-access instructions. Immediate arguments and argument registers are hard-coded.<br>**5-stage pipelining; stages are:**
 - Instruction Fetch (IF)
 - Instruction Decode (ID)
 - Execute (EX)
