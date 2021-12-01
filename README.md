@@ -2,7 +2,7 @@
 
  Combination of gate-level, dataflow and behavioural modelling.
  
- So I have made this 32-bit mips processor using verilog the software that I have used here is Xilinx
+ So I have made this 32-bit mips processor using verilog the software that I have used here is Xilinx<br>
  
 
 Remarks:
